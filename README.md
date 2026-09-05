@@ -1,4 +1,4 @@
-# mihirkolakaluri.github.io
+# MK60710.github.io
 
 Personal blog. Plain HTML/CSS, no build step, no theme, no framework — served directly by GitHub Pages.
 
